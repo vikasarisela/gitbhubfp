@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("myfirstcommit")
+        print("this commit is from development")
     }
 
     override func didReceiveMemoryWarning() {
